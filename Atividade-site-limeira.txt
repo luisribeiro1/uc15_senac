@@ -1,0 +1,53 @@
+Cidade de Limeira 
+
+Links: a-cidade.html, distancias.html, bairros.html, localizacao.html, populacao.html, pontos-turisticos.html, esportes.html, lista-de-prefeitos.html
+
+1 - Criar a página inicial do site com links para as páginas acima, que serão criadas futuramente. 
+Enviar para o Github com o commit "Site Limeira - Página inicial - 06/11/2024"
+
+2 - Criar a página a-cidade.html com as informações da cidade em forma de textos, imagens, vídeos ou outros recursos. Inclua também uma seção com links para sites relevantes da cidade.
+Enviar para o Github com o commit "Site Limeira - Página a-cidade.html - 11/11/2024"
+
+
+3 - Tabela de distâncias: Página com tabelas de distâncias de:
+- Limeira a outras cidades do estado de São Paulo e do Brasil
+- Centro da cidade para outros pontos importantes no município
+Enviar para o Github com o commit "Site Limeira - Página distancias.html - 13/11/2024"
+
+4 - Bairros: Relação dos principais bairros urbanos e rurais. Pode usar tabela ou listas
+Enviar para o Github com o commit "Site Limeira - Página bairros.html - 13/11/2024"
+
+5 - Pontos turísticos: Página com relação dos pontos turísticos, incluindo um breve texto e fotos sobre cada ponto. 
+Enviar para o Github com o commit "Site Limeira - Página pontos-turisticos.html - 13/11/2024"
+
+=================================
+
+6 - População: Página com informações da população de Limeira. Ver: https://cidades.ibge.gov.br/brasil/sp/limeira/panorama
+
+7 - Localização: Página com os seguintes mapas:
+- Ampliado mostrando o município de Limeira
+- Reduzido mostrando apenas a cidade
+- Street View focando um ponto relevante da cidade
+
+8 - Esporte: Página com alguns vídeos sobre as modalidades esportivas na cidade.
+
+9 - Prefeitos: Tabela ou lista com os nomes dos últimos prefeitos, a data de início do mandato e a data final
+
+Enviar para o Github e testar o site publicado
+
+
+===================================
+
+10 - Criar um formulário (nova página) para envio de sugestões para melhoria da cidade de Limeira com os seguintes campos:
+- Nome (mínimo 6 caracteres)
+- E-mail (válido)
+- Sexo (preenchimento obrigatório)
+- idade (aceitar apenas números inteiros)
+- Sugestão (mínimo 100 caracteres)
+Enviar para o Github e testar o site publicado
+
+===================================
+
+
+
+

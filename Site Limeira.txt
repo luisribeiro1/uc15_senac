@@ -1,0 +1,30 @@
+Site Limeira
+
+Links: a-cidade.html, distancias.html, bairros.html, localização.html, população.html, pontos-turisticos.html, esportes.html,lista-de-prefeitos.html
+
+1 - Criar a página inicial do site com links para as páginas acima, que serão criadas futuramente.
+
+2 - Informações da cidade: Página com textos informativos sobre a cidade, com ilustração de algumas imagens. Inclua também uma seção com links para sites relevantes da cidade. 
+
+3 - Tabela de distâncias: Página com tabelas de distâncias de:
+- Limeira a outras cidades do estado de São Paulo e do Brasil
+- Centro da cidade para outros pontos importantes no município
+
+4 - Bairros: Relação dos principais bairros urbanos e rurais. Pode usar tabela ou listas
+
+5 - Pontos turísticos: Página com relação dos pontos turísticos, incluindo um breve texto e fotos sobre cada ponto. 
+ 
+
+
+5 - População: Dados da população, percentual de homens e mulheres, população rural e urbana. Pode usar tabelas ou listas
+
+Localização: Página com os seguintes mapas:
+- Ampliado mostrando o município de Limeira
+- Reduzido mostrando apenas a cidade
+- Street View focando um ponto relevante da cidade
+
+
+
+Esporte: Página com alguns vídeos sobre o esporte na cidade.
+
+Prefeitos: Tabela com os nomes dos últimos prefeitos, a data de início do mandato e a data final
